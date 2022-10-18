@@ -1,2 +1,1 @@
-# 10v
-uchilishte
+probna programa koqto shte izwejda hello world!
